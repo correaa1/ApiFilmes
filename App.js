@@ -8,7 +8,7 @@ constructor (props){
   super(props);
   this.state = {
     filmes:[],
-    loading: true
+    loading: false
   }
 }
 
